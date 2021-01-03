@@ -1,0 +1,16 @@
+font awesome :
+npm i -S @fortawesome/fontawesome-svg-core @fortawesome/react-fontawesome
+
+regular icons :
+npm i -S @fortawesome/free-regular-svg-icons
+
+Solid icons :
+npm i -S @fortawesome/free-solid-svg-icons
+
+Bootstrap:
+npm install react-bootstrap bootstrap
+
+React router dom:
+npm install --save react-router-dom
+
+installations!!
